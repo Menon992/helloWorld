@@ -8,3 +8,4 @@ To install a GitHub Pakage in R you may need *devtools*. If so, please run the f
 if (!requireNamespace("devtools", quietly = TRUE))
  install.packages("devtools")
 ```
+test------
